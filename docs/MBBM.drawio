@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-03-28T11:37:06.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WKZ9aPqYtRqTE3zj-58E" version="14.8.6" type="github">
+  <diagram id="sW4C0n-4Pscy0GUnCI6L" name="Page-1">
+    <mxGraphModel dx="1422" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-2" value="web host&lt;br&gt;$2 to $10 per month&lt;br&gt;domain&lt;br&gt;$10+ per year" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XM2H1b0zSWUE4Bg7FM9N-3" target="XM2H1b0zSWUE4Bg7FM9N-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-3" value="Android wrapper&lt;br&gt;Developer account for Google Play costs $25 one time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-4" value="Web app&lt;br&gt;HTML/CSS/JS front&lt;br&gt;PHP/Linux/MySQL/Postgres back" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XM2H1b0zSWUE4Bg7FM9N-5" target="XM2H1b0zSWUE4Bg7FM9N-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-5" value="iPhone wrapper&lt;br&gt;Apple developer account costs $99/year&lt;br&gt;Usually requires Mac to compile and submit app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XM2H1b0zSWUE4Bg7FM9N-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XM2H1b0zSWUE4Bg7FM9N-4" target="XM2H1b0zSWUE4Bg7FM9N-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH2LEBYHzVSTFR9WYM6z-1" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Most Android apps are ad supported&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;More iPhone users are willing to pay for apps&amp;nbsp; than Android users&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;All websites are attacked by hackers, there are many automated ways to find sites and try to hack them&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;There are many free templates for apps that adapt to phone or full sized monitor&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;There are ways to integrate Google or Apple login info to the app so the user doesn&#39;t have to remember another password&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;You can rent a Mac in the cloud for this:&amp;nbsp;https://checkout.macincloud.com/&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Android studio comes with an emulator for Windows and Linux, works best on Intel not AMD processors&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="630" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
